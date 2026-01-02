@@ -15,8 +15,11 @@ Admin management of buses and bookings
 
 📁 Project Structure
 Bus-Ticket-Booking/
+
 ├── Bus-backend/
+
 ├── bus-frontend/
+
 └── README.md
 
 🛠️ Required Packages
@@ -54,4 +57,5 @@ cd bus-frontend && npm install && npm start
 This project is developed for educational and hackathon purposes.
 
 ⭐ Star the repository if you find it useful!
+
 
