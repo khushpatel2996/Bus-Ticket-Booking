@@ -24,32 +24,24 @@ Bus-Ticket-Booking/
 
 🛠️ Required Packages
 Backend
-
 Node.js
-
 Express
-
 dotenv
-
 cors
-
 nodemon
-
 mongoose / sequelize
 
 Frontend
-
 React
-
 react-router-dom
-
 axios
-
 bootstrap / tailwindcss
 
 🚀 Run the Project
 git clone https://github.com/khushpatel2996/Bus-Ticket-Booking.git
+
 cd Bus-backend && npm install && npm start
+
 cd bus-frontend && npm install && npm start
 
 📄 Note
@@ -57,5 +49,6 @@ cd bus-frontend && npm install && npm start
 This project is developed for educational and hackathon purposes.
 
 ⭐ Star the repository if you find it useful!
+
 
 
